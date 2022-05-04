@@ -38,7 +38,7 @@
 
 ### macOS ###
 # General
-Semana03/.vscode/
+Semana03/**/.vscode/
 .DS_Store
 .AppleDouble
 .LSOverride
