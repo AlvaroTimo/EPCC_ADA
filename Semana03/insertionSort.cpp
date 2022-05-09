@@ -58,7 +58,7 @@ int main(){
     for(int i=0;i<10;i++){
         A[i]=i;
     }
-
+    
     insertionSort(n,A);
 
     //mostramos el arreglo ordenado
